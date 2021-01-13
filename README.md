@@ -1,6 +1,10 @@
 # as_t
  ## 設問
- 1. facebookとyahooのそれぞれの合計を求めなさい。
+ ECショップがfacebook広告とyahoo広告を掲載しており、それらの2020年12月分の広告実績データがinsight.jsonの中にあります。
+
+ jsonのデータを使い、以下の数値を算出しConsoleに表示するプログラムを作成しなさい。
+
+ 1. facebookとyahooのそれぞれのパラメーターの合計値。
  2. facebookとyahooのそれぞれの合計から、cpc、cpa,ctr,コンバージョンレート,ROAS（Return On Advertising Spend）を算出してConsoleで表示しなさい。
 
  ## Jsonパース方法
@@ -27,7 +31,7 @@
  |CTR|Click Through Rateの略称で、Impressionに対してclickされた比率を指す。|
  |コンバージョンレート(CVR)|Conversion Rateの略称で、click総数に対してconversionした比率を指す。|
  |ROAS|Return On Advertising Spendの略称で、投資した広告費用の回収率。 総売上/総コスト * 100 (%)|
-## Hot to run
+## How to run
 ```shell
 $ php main.php
 ```
