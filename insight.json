@@ -1,0 +1,560 @@
+[
+  {
+    "impressions": 38724,
+    "sales": 10967,
+    "conversions": 1,
+    "clicks": 2459,
+    "spend": 460,
+    "platform": "facebook",
+    "created_at": "2020-12-01"
+  },
+  {
+    "impressions": 14149,
+    "sales": 10048,
+    "conversions": 1,
+    "clicks": 4739,
+    "spend": 413,
+    "platform": "facebook",
+    "created_at": "2020-12-02"
+  },
+  {
+    "impressions": 26914,
+    "sales": 12432,
+    "conversions": 3,
+    "clicks": 4198,
+    "spend": 392,
+    "platform": "facebook",
+    "created_at": "2020-12-03"
+  },
+  {
+    "impressions": 22674,
+    "sales": 11704,
+    "conversions": 3,
+    "clicks": 1907,
+    "spend": 294,
+    "platform": "facebook",
+    "created_at": "2020-12-04"
+  },
+  {
+    "impressions": 28505,
+    "sales": 9346,
+    "conversions": 2,
+    "clicks": 2303,
+    "spend": 276,
+    "platform": "facebook",
+    "created_at": "2020-12-05"
+  },
+  {
+    "impressions": 21823,
+    "sales": 12391,
+    "conversions": 2,
+    "clicks": 2463,
+    "spend": 245,
+    "platform": "facebook",
+    "created_at": "2020-12-06"
+  },
+  {
+    "impressions": 46297,
+    "sales": 13129,
+    "conversions": 1,
+    "clicks": 3120,
+    "spend": 496,
+    "platform": "facebook",
+    "created_at": "2020-12-07"
+  },
+  {
+    "impressions": 26651,
+    "sales": 14822,
+    "conversions": 2,
+    "clicks": 1096,
+    "spend": 209,
+    "platform": "facebook",
+    "created_at": "2020-12-08"
+  },
+  {
+    "impressions": 35933,
+    "sales": 13715,
+    "conversions": 3,
+    "clicks": 4978,
+    "spend": 254,
+    "platform": "facebook",
+    "created_at": "2020-12-09"
+  },
+  {
+    "impressions": 22564,
+    "sales": 7431,
+    "conversions": 1,
+    "clicks": 4316,
+    "spend": 269,
+    "platform": "facebook",
+    "created_at": "2020-12-10"
+  },
+  {
+    "impressions": 41285,
+    "sales": 14568,
+    "conversions": 2,
+    "clicks": 2443,
+    "spend": 397,
+    "platform": "facebook",
+    "created_at": "2020-12-11"
+  },
+  {
+    "impressions": 43014,
+    "sales": 6311,
+    "conversions": 2,
+    "clicks": 2173,
+    "spend": 427,
+    "platform": "facebook",
+    "created_at": "2020-12-12"
+  },
+  {
+    "impressions": 43478,
+    "sales": 7158,
+    "conversions": 3,
+    "clicks": 1707,
+    "spend": 322,
+    "platform": "facebook",
+    "created_at": "2020-12-13"
+  },
+  {
+    "impressions": 39125,
+    "sales": 13770,
+    "conversions": 2,
+    "clicks": 2127,
+    "spend": 397,
+    "platform": "facebook",
+    "created_at": "2020-12-14"
+  },
+  {
+    "impressions": 15079,
+    "sales": 12183,
+    "conversions": 2,
+    "clicks": 2806,
+    "spend": 369,
+    "platform": "facebook",
+    "created_at": "2020-12-15"
+  },
+  {
+    "impressions": 29052,
+    "sales": 10060,
+    "conversions": 3,
+    "clicks": 3276,
+    "spend": 249,
+    "platform": "facebook",
+    "created_at": "2020-12-16"
+  },
+  {
+    "impressions": 23090,
+    "sales": 5050,
+    "conversions": 2,
+    "clicks": 1767,
+    "spend": 469,
+    "platform": "facebook",
+    "created_at": "2020-12-17"
+  },
+  {
+    "impressions": 21068,
+    "sales": 13754,
+    "conversions": 3,
+    "clicks": 4218,
+    "spend": 368,
+    "platform": "facebook",
+    "created_at": "2020-12-18"
+  },
+  {
+    "impressions": 35006,
+    "sales": 12623,
+    "conversions": 1,
+    "clicks": 2443,
+    "spend": 453,
+    "platform": "facebook",
+    "created_at": "2020-12-19"
+  },
+  {
+    "impressions": 13821,
+    "sales": 12228,
+    "conversions": 1,
+    "clicks": 4240,
+    "spend": 293,
+    "platform": "facebook",
+    "created_at": "2020-12-20"
+  },
+  {
+    "impressions": 32276,
+    "sales": 10780,
+    "conversions": 2,
+    "clicks": 2378,
+    "spend": 473,
+    "platform": "facebook",
+    "created_at": "2020-12-21"
+  },
+  {
+    "impressions": 28774,
+    "sales": 13238,
+    "conversions": 1,
+    "clicks": 4258,
+    "spend": 258,
+    "platform": "facebook",
+    "created_at": "2020-12-22"
+  },
+  {
+    "impressions": 24141,
+    "sales": 8486,
+    "conversions": 2,
+    "clicks": 2742,
+    "spend": 289,
+    "platform": "facebook",
+    "created_at": "2020-12-23"
+  },
+  {
+    "impressions": 34087,
+    "sales": 7393,
+    "conversions": 3,
+    "clicks": 1314,
+    "spend": 307,
+    "platform": "facebook",
+    "created_at": "2020-12-24"
+  },
+  {
+    "impressions": 45293,
+    "sales": 9992,
+    "conversions": 3,
+    "clicks": 1617,
+    "spend": 365,
+    "platform": "facebook",
+    "created_at": "2020-12-25"
+  },
+  {
+    "impressions": 16864,
+    "sales": 10202,
+    "conversions": 1,
+    "clicks": 1363,
+    "spend": 302,
+    "platform": "facebook",
+    "created_at": "2020-12-26"
+  },
+  {
+    "impressions": 34861,
+    "sales": 5766,
+    "conversions": 1,
+    "clicks": 1378,
+    "spend": 293,
+    "platform": "facebook",
+    "created_at": "2020-12-27"
+  },
+  {
+    "impressions": 45893,
+    "sales": 6297,
+    "conversions": 2,
+    "clicks": 3005,
+    "spend": 399,
+    "platform": "facebook",
+    "created_at": "2020-12-28"
+  },
+  {
+    "impressions": 34246,
+    "sales": 7780,
+    "conversions": 1,
+    "clicks": 3784,
+    "spend": 454,
+    "platform": "facebook",
+    "created_at": "2020-12-29"
+  },
+  {
+    "impressions": 34599,
+    "sales": 9884,
+    "conversions": 2,
+    "clicks": 2125,
+    "spend": 261,
+    "platform": "facebook",
+    "created_at": "2020-12-30"
+  },
+  {
+    "impressions": 32392,
+    "sales": 6237,
+    "conversions": 3,
+    "clicks": 4299,
+    "spend": 438,
+    "platform": "facebook",
+    "created_at": "2020-12-31"
+  },
+  {
+    "impressions": 45736,
+    "sales": 7625,
+    "conversions": 2,
+    "clicks": 1603,
+    "spend": 446,
+    "platform": "yahoo",
+    "created_at": "2020-12-01"
+  },
+  {
+    "impressions": 21066,
+    "sales": 7870,
+    "conversions": 2,
+    "clicks": 1161,
+    "spend": 260,
+    "platform": "yahoo",
+    "created_at": "2020-12-02"
+  },
+  {
+    "impressions": 38682,
+    "sales": 9010,
+    "conversions": 3,
+    "clicks": 1621,
+    "spend": 362,
+    "platform": "yahoo",
+    "created_at": "2020-12-03"
+  },
+  {
+    "impressions": 11952,
+    "sales": 11851,
+    "conversions": 3,
+    "clicks": 4263,
+    "spend": 286,
+    "platform": "yahoo",
+    "created_at": "2020-12-04"
+  },
+  {
+    "impressions": 49808,
+    "sales": 9444,
+    "conversions": 2,
+    "clicks": 3683,
+    "spend": 498,
+    "platform": "yahoo",
+    "created_at": "2020-12-05"
+  },
+  {
+    "impressions": 26906,
+    "sales": 13687,
+    "conversions": 3,
+    "clicks": 4930,
+    "spend": 258,
+    "platform": "yahoo",
+    "created_at": "2020-12-06"
+  },
+  {
+    "impressions": 22595,
+    "sales": 8050,
+    "conversions": 1,
+    "clicks": 2455,
+    "spend": 357,
+    "platform": "yahoo",
+    "created_at": "2020-12-07"
+  },
+  {
+    "impressions": 43110,
+    "sales": 8772,
+    "conversions": 1,
+    "clicks": 4361,
+    "spend": 237,
+    "platform": "yahoo",
+    "created_at": "2020-12-08"
+  },
+  {
+    "impressions": 17174,
+    "sales": 12307,
+    "conversions": 1,
+    "clicks": 4921,
+    "spend": 257,
+    "platform": "yahoo",
+    "created_at": "2020-12-09"
+  },
+  {
+    "impressions": 48926,
+    "sales": 9311,
+    "conversions": 3,
+    "clicks": 4020,
+    "spend": 469,
+    "platform": "yahoo",
+    "created_at": "2020-12-10"
+  },
+  {
+    "impressions": 45739,
+    "sales": 7879,
+    "conversions": 2,
+    "clicks": 3334,
+    "spend": 308,
+    "platform": "yahoo",
+    "created_at": "2020-12-11"
+  },
+  {
+    "impressions": 37435,
+    "sales": 13353,
+    "conversions": 3,
+    "clicks": 4875,
+    "spend": 378,
+    "platform": "yahoo",
+    "created_at": "2020-12-12"
+  },
+  {
+    "impressions": 34034,
+    "sales": 5619,
+    "conversions": 2,
+    "clicks": 4481,
+    "spend": 459,
+    "platform": "yahoo",
+    "created_at": "2020-12-13"
+  },
+  {
+    "impressions": 24866,
+    "sales": 9628,
+    "conversions": 3,
+    "clicks": 1896,
+    "spend": 479,
+    "platform": "yahoo",
+    "created_at": "2020-12-14"
+  },
+  {
+    "impressions": 17563,
+    "sales": 6637,
+    "conversions": 1,
+    "clicks": 2728,
+    "spend": 300,
+    "platform": "yahoo",
+    "created_at": "2020-12-15"
+  },
+  {
+    "impressions": 39080,
+    "sales": 6622,
+    "conversions": 3,
+    "clicks": 3788,
+    "spend": 427,
+    "platform": "yahoo",
+    "created_at": "2020-12-16"
+  },
+  {
+    "impressions": 16775,
+    "sales": 8152,
+    "conversions": 2,
+    "clicks": 2380,
+    "spend": 490,
+    "platform": "yahoo",
+    "created_at": "2020-12-17"
+  },
+  {
+    "impressions": 13252,
+    "sales": 13385,
+    "conversions": 2,
+    "clicks": 3453,
+    "spend": 243,
+    "platform": "yahoo",
+    "created_at": "2020-12-18"
+  },
+  {
+    "impressions": 10872,
+    "sales": 9119,
+    "conversions": 2,
+    "clicks": 2929,
+    "spend": 322,
+    "platform": "yahoo",
+    "created_at": "2020-12-19"
+  },
+  {
+    "impressions": 15723,
+    "sales": 12054,
+    "conversions": 1,
+    "clicks": 3768,
+    "spend": 300,
+    "platform": "yahoo",
+    "created_at": "2020-12-20"
+  },
+  {
+    "impressions": 36604,
+    "sales": 6593,
+    "conversions": 1,
+    "clicks": 3191,
+    "spend": 325,
+    "platform": "yahoo",
+    "created_at": "2020-12-21"
+  },
+  {
+    "impressions": 10392,
+    "sales": 11377,
+    "conversions": 3,
+    "clicks": 3809,
+    "spend": 312,
+    "platform": "yahoo",
+    "created_at": "2020-12-22"
+  },
+  {
+    "impressions": 24210,
+    "sales": 12072,
+    "conversions": 3,
+    "clicks": 3933,
+    "spend": 485,
+    "platform": "yahoo",
+    "created_at": "2020-12-23"
+  },
+  {
+    "impressions": 20427,
+    "sales": 5920,
+    "conversions": 3,
+    "clicks": 2717,
+    "spend": 217,
+    "platform": "yahoo",
+    "created_at": "2020-12-24"
+  },
+  {
+    "impressions": 36823,
+    "sales": 12409,
+    "conversions": 3,
+    "clicks": 1776,
+    "spend": 357,
+    "platform": "yahoo",
+    "created_at": "2020-12-25"
+  },
+  {
+    "impressions": 34215,
+    "sales": 5301,
+    "conversions": 1,
+    "clicks": 3394,
+    "spend": 425,
+    "platform": "yahoo",
+    "created_at": "2020-12-26"
+  },
+  {
+    "impressions": 33976,
+    "sales": 6655,
+    "conversions": 3,
+    "clicks": 4328,
+    "spend": 440,
+    "platform": "yahoo",
+    "created_at": "2020-12-27"
+  },
+  {
+    "impressions": 45091,
+    "sales": 5459,
+    "conversions": 3,
+    "clicks": 2472,
+    "spend": 459,
+    "platform": "yahoo",
+    "created_at": "2020-12-28"
+  },
+  {
+    "impressions": 25400,
+    "sales": 12634,
+    "conversions": 3,
+    "clicks": 1711,
+    "spend": 383,
+    "platform": "yahoo",
+    "created_at": "2020-12-29"
+  },
+  {
+    "impressions": 11747,
+    "sales": 11988,
+    "conversions": 1,
+    "clicks": 1007,
+    "spend": 468,
+    "platform": "yahoo",
+    "created_at": "2020-12-30"
+  },
+  {
+    "impressions": 18607,
+    "sales": 5212,
+    "conversions": 1,
+    "clicks": 2949,
+    "spend": 491,
+    "platform": "yahoo",
+    "created_at": "2020-12-31"
+  }
+]
