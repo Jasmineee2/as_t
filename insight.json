@@ -5,7 +5,7 @@
     "conversions": 1,
     "clicks": 2459,
     "spend": 460,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-01"
   },
   {
@@ -14,7 +14,7 @@
     "conversions": 1,
     "clicks": 4739,
     "spend": 413,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-02"
   },
   {
@@ -23,7 +23,7 @@
     "conversions": 3,
     "clicks": 4198,
     "spend": 392,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-03"
   },
   {
@@ -32,7 +32,7 @@
     "conversions": 3,
     "clicks": 1907,
     "spend": 294,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-04"
   },
   {
@@ -41,7 +41,7 @@
     "conversions": 2,
     "clicks": 2303,
     "spend": 276,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-05"
   },
   {
@@ -50,7 +50,7 @@
     "conversions": 2,
     "clicks": 2463,
     "spend": 245,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-06"
   },
   {
@@ -59,7 +59,7 @@
     "conversions": 1,
     "clicks": 3120,
     "spend": 496,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-07"
   },
   {
@@ -68,7 +68,7 @@
     "conversions": 2,
     "clicks": 1096,
     "spend": 209,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-08"
   },
   {
@@ -77,7 +77,7 @@
     "conversions": 3,
     "clicks": 4978,
     "spend": 254,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-09"
   },
   {
@@ -86,7 +86,7 @@
     "conversions": 1,
     "clicks": 4316,
     "spend": 269,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-10"
   },
   {
@@ -95,7 +95,7 @@
     "conversions": 2,
     "clicks": 2443,
     "spend": 397,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-11"
   },
   {
@@ -104,7 +104,7 @@
     "conversions": 2,
     "clicks": 2173,
     "spend": 427,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-12"
   },
   {
@@ -113,7 +113,7 @@
     "conversions": 3,
     "clicks": 1707,
     "spend": 322,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-13"
   },
   {
@@ -122,7 +122,7 @@
     "conversions": 2,
     "clicks": 2127,
     "spend": 397,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-14"
   },
   {
@@ -131,7 +131,7 @@
     "conversions": 2,
     "clicks": 2806,
     "spend": 369,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-15"
   },
   {
@@ -140,7 +140,7 @@
     "conversions": 3,
     "clicks": 3276,
     "spend": 249,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-16"
   },
   {
@@ -149,7 +149,7 @@
     "conversions": 2,
     "clicks": 1767,
     "spend": 469,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-17"
   },
   {
@@ -158,7 +158,7 @@
     "conversions": 3,
     "clicks": 4218,
     "spend": 368,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-18"
   },
   {
@@ -167,7 +167,7 @@
     "conversions": 1,
     "clicks": 2443,
     "spend": 453,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-19"
   },
   {
@@ -176,7 +176,7 @@
     "conversions": 1,
     "clicks": 4240,
     "spend": 293,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-20"
   },
   {
@@ -185,7 +185,7 @@
     "conversions": 2,
     "clicks": 2378,
     "spend": 473,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-21"
   },
   {
@@ -194,7 +194,7 @@
     "conversions": 1,
     "clicks": 4258,
     "spend": 258,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-22"
   },
   {
@@ -203,7 +203,7 @@
     "conversions": 2,
     "clicks": 2742,
     "spend": 289,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-23"
   },
   {
@@ -212,7 +212,7 @@
     "conversions": 3,
     "clicks": 1314,
     "spend": 307,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-24"
   },
   {
@@ -221,7 +221,7 @@
     "conversions": 3,
     "clicks": 1617,
     "spend": 365,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-25"
   },
   {
@@ -230,7 +230,7 @@
     "conversions": 1,
     "clicks": 1363,
     "spend": 302,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-26"
   },
   {
@@ -239,7 +239,7 @@
     "conversions": 1,
     "clicks": 1378,
     "spend": 293,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-27"
   },
   {
@@ -248,7 +248,7 @@
     "conversions": 2,
     "clicks": 3005,
     "spend": 399,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-28"
   },
   {
@@ -257,7 +257,7 @@
     "conversions": 1,
     "clicks": 3784,
     "spend": 454,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-29"
   },
   {
@@ -266,7 +266,7 @@
     "conversions": 2,
     "clicks": 2125,
     "spend": 261,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-30"
   },
   {
@@ -275,7 +275,7 @@
     "conversions": 3,
     "clicks": 4299,
     "spend": 438,
-    "platform": "facebook",
+    "provider": "facebook",
     "created_at": "2020-12-31"
   },
   {
@@ -284,7 +284,7 @@
     "conversions": 2,
     "clicks": 1603,
     "spend": 446,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-01"
   },
   {
@@ -293,7 +293,7 @@
     "conversions": 2,
     "clicks": 1161,
     "spend": 260,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-02"
   },
   {
@@ -302,7 +302,7 @@
     "conversions": 3,
     "clicks": 1621,
     "spend": 362,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-03"
   },
   {
@@ -311,7 +311,7 @@
     "conversions": 3,
     "clicks": 4263,
     "spend": 286,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-04"
   },
   {
@@ -320,7 +320,7 @@
     "conversions": 2,
     "clicks": 3683,
     "spend": 498,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-05"
   },
   {
@@ -329,7 +329,7 @@
     "conversions": 3,
     "clicks": 4930,
     "spend": 258,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-06"
   },
   {
@@ -338,7 +338,7 @@
     "conversions": 1,
     "clicks": 2455,
     "spend": 357,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-07"
   },
   {
@@ -347,7 +347,7 @@
     "conversions": 1,
     "clicks": 4361,
     "spend": 237,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-08"
   },
   {
@@ -356,7 +356,7 @@
     "conversions": 1,
     "clicks": 4921,
     "spend": 257,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-09"
   },
   {
@@ -365,7 +365,7 @@
     "conversions": 3,
     "clicks": 4020,
     "spend": 469,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-10"
   },
   {
@@ -374,7 +374,7 @@
     "conversions": 2,
     "clicks": 3334,
     "spend": 308,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-11"
   },
   {
@@ -383,7 +383,7 @@
     "conversions": 3,
     "clicks": 4875,
     "spend": 378,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-12"
   },
   {
@@ -392,7 +392,7 @@
     "conversions": 2,
     "clicks": 4481,
     "spend": 459,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-13"
   },
   {
@@ -401,7 +401,7 @@
     "conversions": 3,
     "clicks": 1896,
     "spend": 479,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-14"
   },
   {
@@ -410,7 +410,7 @@
     "conversions": 1,
     "clicks": 2728,
     "spend": 300,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-15"
   },
   {
@@ -419,7 +419,7 @@
     "conversions": 3,
     "clicks": 3788,
     "spend": 427,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-16"
   },
   {
@@ -428,7 +428,7 @@
     "conversions": 2,
     "clicks": 2380,
     "spend": 490,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-17"
   },
   {
@@ -437,7 +437,7 @@
     "conversions": 2,
     "clicks": 3453,
     "spend": 243,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-18"
   },
   {
@@ -446,7 +446,7 @@
     "conversions": 2,
     "clicks": 2929,
     "spend": 322,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-19"
   },
   {
@@ -455,7 +455,7 @@
     "conversions": 1,
     "clicks": 3768,
     "spend": 300,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-20"
   },
   {
@@ -464,7 +464,7 @@
     "conversions": 1,
     "clicks": 3191,
     "spend": 325,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-21"
   },
   {
@@ -473,7 +473,7 @@
     "conversions": 3,
     "clicks": 3809,
     "spend": 312,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-22"
   },
   {
@@ -482,7 +482,7 @@
     "conversions": 3,
     "clicks": 3933,
     "spend": 485,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-23"
   },
   {
@@ -491,7 +491,7 @@
     "conversions": 3,
     "clicks": 2717,
     "spend": 217,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-24"
   },
   {
@@ -500,7 +500,7 @@
     "conversions": 3,
     "clicks": 1776,
     "spend": 357,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-25"
   },
   {
@@ -509,7 +509,7 @@
     "conversions": 1,
     "clicks": 3394,
     "spend": 425,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-26"
   },
   {
@@ -518,7 +518,7 @@
     "conversions": 3,
     "clicks": 4328,
     "spend": 440,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-27"
   },
   {
@@ -527,7 +527,7 @@
     "conversions": 3,
     "clicks": 2472,
     "spend": 459,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-28"
   },
   {
@@ -536,7 +536,7 @@
     "conversions": 3,
     "clicks": 1711,
     "spend": 383,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-29"
   },
   {
@@ -545,7 +545,7 @@
     "conversions": 1,
     "clicks": 1007,
     "spend": 468,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-30"
   },
   {
@@ -554,7 +554,7 @@
     "conversions": 1,
     "clicks": 2949,
     "spend": 491,
-    "platform": "yahoo",
+    "provider": "yahoo",
     "created_at": "2020-12-31"
   }
 ]

@@ -2,7 +2,7 @@
 
 class Collection {
 
-    private $except = ['created_at', 'platform'];
+    private $except = ['created_at', 'provider'];
     /**
      * @var any[]
      */

@@ -28,7 +28,7 @@ class Insight {
     /**
      * @var string
      */
-    public $platform;
+    public $provider;
 
     /**
      * @var string
@@ -41,7 +41,7 @@ class Insight {
         int $conversions,
         int $clicks,
         int $spend,
-        string $platform,
+        string $provider,
         string $created_at
     ) {
         $this->impressions = $impressions;
@@ -49,7 +49,7 @@ class Insight {
         $this->conversions = $conversions;
         $this->clicks = $clicks;
         $this->spend = $spend;
-        $this->platform = $platform;
+        $this->provider = $provider;
         $this->created_at = $created_at;
     }
 }

@@ -42,10 +42,10 @@ class Main {
                 $val['conversions'],
                 $val['clicks'],
                 $val['spend'],
-                $val['platform'],
+                $val['provider'],
                 $val['created_at'],
             );
-            switch ($val['platform']) {
+            switch ($val['provider']) {
                 case 'yahoo':
                     $yahooInsights->append($insight);
                     break;
